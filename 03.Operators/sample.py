@@ -20,5 +20,11 @@ print(result)
 
 '''
 Type of Operators
-Arithmetic, Comparison, Assigment, 
+
+Arithmetic - math calculations
+Comparison - compare values
+Logical - combine
+Assignment - assign values
+identity - object memory location
+membership - value exist in sequences
 '''
